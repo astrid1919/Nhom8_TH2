@@ -15,17 +15,17 @@ Dương view,delete
 
 Mô tả web:
 
-Đầu tiên sẽ hiện ra trang home và ấn vào View Product
++Đầu tiên sẽ hiện ra trang home và ấn vào View Product
 
-Trang view.html hiện ra với các dữ liệu trong database
++Trang view.html hiện ra với các dữ liệu trong database
 
-Có thể chọn 3 chức năng add, edit, delete
++Có thể chọn 3 chức năng add, edit, delete
 
-Add:  nhập các thông số vào các ô và ấn save
++Add:  nhập các thông số vào các ô và ấn save
 
-edit: nhập các thông số vào các ô cần thay đổi ấn save
++edit: nhập các thông số vào các ô cần thay đổi ấn save
 
-delete: chọn sản phẩm cần xóa và chọn yes để xóa , no để không xóa
++delete: chọn sản phẩm cần xóa và chọn yes để xóa , no để không xóa
 
 Mô tả cách làm:
 
